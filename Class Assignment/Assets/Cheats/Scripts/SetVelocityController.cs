@@ -33,6 +33,8 @@ public class SetVelocityController : MonoBehaviour
         Debug.Log("Cookie");
         FlipBehaviour();
         MovementBehaviour();
+    Debug.Log("Cake");
+
     }
     void FlipBehaviour()
     {
