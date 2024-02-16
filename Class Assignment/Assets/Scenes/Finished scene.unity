@@ -276,7 +276,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 99bebf6762f0dde4a83a5a068bd12bf3, type: 3}
@@ -372,7 +372,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 7208e4f71b4c7264da09ad98192e6071, type: 3}
@@ -505,7 +505,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 43928ce7596a063439983d192bf9a317, type: 3}
@@ -698,7 +698,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 43928ce7596a063439983d192bf9a317, type: 3}
@@ -782,7 +782,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 876bff40d8ccb404ba21a6aea301d825, type: 3}
@@ -866,7 +866,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 434947563
+  m_SortingLayerID: -2011175807
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: b30b40a39a568e54e8ed0d8e0de779ce, type: 3}
@@ -936,7 +936,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: -5
   m_Sprite: {fileID: 21300000, guid: 1a4178cd814442f4db1e3601a7664051, type: 3}
@@ -1049,7 +1049,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 434947563
+  m_SortingLayerID: -2011175807
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: b30b40a39a568e54e8ed0d8e0de779ce, type: 3}
@@ -1201,7 +1201,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 434947563
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 0}
@@ -1580,7 +1580,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 806aa7d52a7884046bd76c15d8f8280c, type: 3}
@@ -1664,7 +1664,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 7208e4f71b4c7264da09ad98192e6071, type: 3}
@@ -1960,7 +1960,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1042214289
+  m_SortingLayerID: -480322031
   m_SortingLayer: -1
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 7208e4f71b4c7264da09ad98192e6071, type: 3}
@@ -2343,7 +2343,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4434669847787047862}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83dd54e1db4de044bb18ef34be9ca263, type: 3}
+  m_Script: {fileID: 11500000, guid: 1258e9a62e7eabe4f986da0436cd63f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   inputDirection: {x: 0, y: 0}
