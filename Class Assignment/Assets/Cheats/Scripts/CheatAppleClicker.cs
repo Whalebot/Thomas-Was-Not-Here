@@ -5,36 +5,35 @@ using UnityEngine.UI;
 using TMPro;
 public class CheatAppleClicker : MonoBehaviour
 {
+    [Header("General Gameplay")]
     public int allVitaminsGained;
     public int _vitamins;
     public int vitaminsPerClick = 1;
-
-    public int apples;
-    public int strawberries;
-    public int lemons;
-
-    public int applePrice;
-    public int strawberryPrice;
-    public int lemonPrice;
-
-    public int vitaminsPerStrawberry;
-    public int vitaminsPerLemon;
     public TextMeshProUGUI vitaminCountText;
-
     public TextMeshProUGUI gameProgressText;
     public Slider gameProgressSlider;
 
     [Header("Apples")]
+    public int apples; 
+    public int applePrice;
     public Button buyAppleButton;
-    public Button buyStrawberryButton;
-    public Button buyLemonButton;
-    [Header("Strawberries")]
     public TextMeshProUGUI numberOfApplesText;
-    public TextMeshProUGUI numberOfStrawberriesText;
-    public TextMeshProUGUI numberOfLemonsText;
-    [Header("Lemons")]
     public TextMeshProUGUI costOfApplesText;
+
+    [Header("Strawberries")] 
+    public int strawberries; 
+    public int strawberryPrice; 
+    public int vitaminsPerStrawberry;
+    public Button buyStrawberryButton;
+    public TextMeshProUGUI numberOfStrawberriesText;
     public TextMeshProUGUI costOfStrawberriesText;
+
+    [Header("Lemons")] 
+    public int lemons;
+    public int lemonPrice;
+    public int vitaminsPerLemon;
+    public Button buyLemonButton; 
+    public TextMeshProUGUI numberOfLemonsText;
     public TextMeshProUGUI costOfLemonsText;
 
 
